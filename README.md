@@ -1,4 +1,4 @@
-# Time-Series-Analysis-and-Prediction
+# Time Series Analysis and Prediction
 Using Deep Learning and RNN/LSTM for Time Series Learning and Prediction
 
 ### Problem Description
